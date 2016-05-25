@@ -3,7 +3,10 @@
 基于Jquery 的网站 Banner
 
 
-<html>
+
+
+
+  <html>
     <head>
         <title>demo</title>
          <!-- 引入css   -->
@@ -29,4 +32,4 @@
         <script src="PaPaBanner.js"></script>
         
     </body>
-</html>
+ </html>
